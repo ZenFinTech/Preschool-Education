@@ -4,3 +4,6 @@
 
 <font size="7">我是变大的字</font>  
 
+
+
+《font color=gray size=72>color=gray</font>
